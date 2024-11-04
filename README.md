@@ -8,13 +8,6 @@ This project aims to evaluate the intricate relationship between stock prices an
 - **Visual Comparison**: Create a dashboard that visually compares stock prices with profit trends.
 - **Investment Insights**: Understand how profit growth influences stock price movements, especially regarding short selling.
 
-## Key Concepts
-| **Concept**              | **Description**                                                                                      |
-|--------------------------|------------------------------------------------------------------------------------------------------|
-| **Stock Pricing Factors** | Stock prices are influenced by profits, outstanding shares, and overall market dynamics.           |
-| **Short Selling**        | A strategy to profit from declining stock prices, with inherent risks if the stock price rises unexpectedly. |
-| **Market Dynamics**      | Events like the GameStop phenomenon illustrate the significant impact of collective investor behavior on stock prices. |
-
 ## Dashboard Screenshots Comparisons
 
 The following table displays key screenshots from the dashboard, divided by Tesla and GameStop:
