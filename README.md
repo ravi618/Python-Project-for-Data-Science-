@@ -1,10 +1,9 @@
 # Python-Project-for-Data-Science-
 ## Dashboard Screenshots
 
-The following table displays key screenshots from the dashboard:
+The following table displays key screenshots from the dashboard, divided by Tesla and GameStop:
 
-| **Overview**                                            | **Stock Comparison**                                  |
-|--------------------------------------------------------|------------------------------------------------------|
+| **Tesla**                                            | **GameStop**                                       |
+|-----------------------------------------------------|----------------------------------------------------|
 | ![Screenshot 2024-11-04 000004](https://github.com/user-attachments/assets/4f3d74a4-5b1c-4ee9-931f-4f293dbe50ae) | ![Screenshot 2024-11-04 000049](https://github.com/user-attachments/assets/c407ecab-c476-4fd7-beba-c66da0d72139) |
-| **Detailed Analysis**                                  | **Profit Trends**                                    |
 | ![Screenshot 2024-11-04 000141](https://github.com/user-attachments/assets/ac300307-93b3-4ec2-84be-81a4b6c4ff99) | ![Screenshot 2024-11-04 000231](https://github.com/user-attachments/assets/28e7b66c-a066-4de9-9152-ed6296c5a360) |
