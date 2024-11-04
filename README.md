@@ -25,8 +25,8 @@ The following table summarizes the key visualizations generated in this project,
 
 | **Aspect**                | **Tesla**                                             | **GameStop**                                         |
 |---------------------------|------------------------------------------------------|------------------------------------------------------|
-| **Stock Price Trend**     | ![Tesla Stock Chart](images/TeslaStocks.png)       | ![GameStop Stock Chart](images/GMEStocks.png)       |
-| **Profit Trend**          | ![Tesla Profit Chart](images/TeslaProfit.png)      | ![GameStop Profit Chart](images/GMEProfit.png)      |
+| **Stock Price Trend**     | ![Tesla Stock Chart](images/TeslaStocks.png)       | ![GameStop Stock Chart](images/TeslaProfit.png)      |
+| **Profit Trend**          | ![Tesla Profit Chart](images/GMEStocks.png)      | ![GameStop Profit Chart](images/GMEProfit.png)      |
 | **Key Observations**      | Profit growth correlates positively with rising stock prices. | Price surged due to retail investor interest, despite financial losses. |
 | **Investment Insights**   | Indicates strong long-term growth potential for investors. | High volatility suggests caution, especially for short sellers. |
 
