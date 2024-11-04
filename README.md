@@ -15,13 +15,7 @@ This project aims to evaluate the intricate relationship between stock prices an
 | **Short Selling**        | A strategy to profit from declining stock prices, with inherent risks if the stock price rises unexpectedly. |
 | **Market Dynamics**      | Events like the GameStop phenomenon illustrate the significant impact of collective investor behavior on stock prices. |
 
-## Graph Comparisons
-The following table summarizes the key visualizations generated in this project, comparing stock price and profit trends for Tesla and GameStop:
-
-## Conclusion
-This analysis demonstrates the relationship between corporate profits and stock prices, providing critical insights for investors and hedge funds. The contrasting behaviors of Tesla and GameStop highlight different market dynamics, especially regarding short selling. By utilizing the dashboard and its visualizations, users can make informed investment decisions based on real-time data.
-
-## Dashboard Screenshots
+## Dashboard Screenshots Comparisons
 
 The following table displays key screenshots from the dashboard, divided by Tesla and GameStop:
 
@@ -29,3 +23,5 @@ The following table displays key screenshots from the dashboard, divided by Tesl
 |-----------------------------------------------------|----------------------------------------------------|
 | ![Screenshot 2024-11-04 000004](https://github.com/user-attachments/assets/4f3d74a4-5b1c-4ee9-931f-4f293dbe50ae) | ![Screenshot 2024-11-04 000141](https://github.com/user-attachments/assets/ac300307-93b3-4ec2-84be-81a4b6c4ff99) |
 | ![Screenshot 2024-11-04 000049](https://github.com/user-attachments/assets/c407ecab-c476-4fd7-beba-c66da0d72139)| ![Screenshot 2024-11-04 000231](https://github.com/user-attachments/assets/28e7b66c-a066-4de9-9152-ed6296c5a360) |
+## Conclusion
+This analysis demonstrates the relationship between corporate profits and stock prices, providing critical insights for investors and hedge funds. The contrasting behaviors of Tesla and GameStop highlight different market dynamics, especially regarding short selling. By utilizing the dashboard and its visualizations, users can make informed investment decisions based on real-time data.
