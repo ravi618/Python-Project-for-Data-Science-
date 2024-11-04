@@ -33,19 +33,6 @@ The following table summarizes the key visualizations generated in this project,
 ## Conclusion
 This analysis demonstrates the relationship between corporate profits and stock prices, providing critical insights for investors and hedge funds. The contrasting behaviors of Tesla and GameStop highlight different market dynamics, especially regarding short selling. By utilizing the dashboard and its visualizations, users can make informed investment decisions based on real-time data.
 
-## Installation Instructions
-
-### Prerequisites
-- Python 3.7 or higher
-- Pip for package management
-
-### Steps to Set Up Locally
-| **Step**                        | **Command**                                                              |
-|---------------------------------|-------------------------------------------------------------------------|
-| **Clone the repository**        | `git clone https://github.com/yourusername/your-repo-name.git`        |
-| **Change directory**            | `cd your-repo-name`                                                    |
-| **Install dependencies**        | `pip install -r requirements.txt`                                     |
-
 ## Acknowledgments
 This project draws inspiration from recent market events, particularly the GameStop stock phenomenon, highlighting the influence of collective retail investor actions. The insights gained from this analysis aim to empower investors in navigating the complexities of stock trading and investment strategies.
 
@@ -64,8 +51,39 @@ To visually present the graphs, you can place them here:
 
 ---
 
-Feel free to replace the placeholder paths with the actual paths to your images when you add them to your GitHub repository!
 ![Screenshot 2024-11-04 000004](https://github.com/user-attachments/assets/4f3d74a4-5b1c-4ee9-931f-4f293dbe50ae)
 ![Screenshot 2024-11-04 000049](https://github.com/user-attachments/assets/c407ecab-c476-4fd7-beba-c66da0d72139)
 ![Screenshot 2024-11-04 000141](https://github.com/user-attachments/assets/ac300307-93b3-4ec2-84be-81a4b6c4ff99)
 ![Screenshot 2024-11-04 000231](https://github.com/user-attachments/assets/28e7b66c-a066-4de9-9152-ed6296c5a360)
+Expected Insights
+Correlation between quarterly profit announcements and stock price fluctuations.
+Identification of trends that may indicate short selling opportunities.
+Stock Graphs and Screenshots
+The following visuals illustrate the stock price trends for Tesla and GameStop, alongside additional dashboard screenshots:
+
+Tesla Stock Price	GameStop Stock Price
+	
+	
+Installation
+Prerequisites
+Python 3.7 or higher
+pip (Python package installer)
+Instructions to Set Up the Project Locally
+bash
+Copy code
+# Clone the repository
+git clone https://github.com/rodrigoHM/Python-Project-for-Data-Science.git
+
+# Navigate into the directory
+cd Python-Project-for-Data-Science
+
+# Install dependencies
+pip install -r requirements.txt
+Acknowledgments
+This project draws inspiration from recent market dynamics, particularly the GameStop trading phenomenon, showcasing the influence of retail investor behavior on stock prices.
+
+Make sure to verify the image paths and URLs for your repository's structure. Let me know if you need any more adjustments!
+
+
+
+
